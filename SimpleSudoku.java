@@ -1,6 +1,5 @@
 
 /** Rebecca Henry
- *  student number: 20152682
  *  Mon. Oct. 5, 2020
  *  CISC124 assignment 1
  */
